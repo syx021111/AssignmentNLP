@@ -1,0 +1,7 @@
+nltk
+joblib
+streamlit
+textblob
+matplotlib
+wordcloud
+sklearn
